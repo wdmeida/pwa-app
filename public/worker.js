@@ -1,5 +1,5 @@
 // Flag for enabling cache in production.
-var doCache = false;
+var doCache = true;
 
 const CACHE_NAME = 'pwa-app-cache';
 
